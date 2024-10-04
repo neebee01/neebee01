@@ -30,7 +30,7 @@ noikiolubola@gmail.com
 *Skills:*
 
 - Laboratory Analysis and Management
-- Biochemistry
+- Biochemist
 - Quality Control
 - Data Analysis (Microsoft Excel, SQL, Power BI)
 
